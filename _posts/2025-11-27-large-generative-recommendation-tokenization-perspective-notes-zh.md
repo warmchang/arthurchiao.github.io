@@ -3,7 +3,7 @@ layout    : post
 title     : "[笔记] 从 Tokenization 视角看生成式推荐（GR）近几年的发展（2025）"
 date      : 2025-11-27
 lastupdate: 2025-11-27
-categories: ai llm
+categories: ai recommendation
 ---
 
 <p align="center"><img src="/assets/img/large-generative-recommendation-tokenization-perspective/model-as-reflection-of-real-world.png" width="90%" height="90%"></p>
